@@ -7,7 +7,7 @@ Debes realizar una página web semántica HTML5 de temática libre donde se mues
 
 **Valoraciones adicionales:**
 
-- [ ] Uso único de diseño flexible, sin position ni float.
+- [x] Uso único de diseño flexible, sin position ni float.
 
 - [ ] Página RWD con media queries
 
@@ -15,14 +15,14 @@ Debes realizar una página web semántica HTML5 de temática libre donde se mues
 
 - [ ] Tres usos diferentes del selector :nt-child()
 
-- [ ] Organización del sitio web.
+- [x] Organización del sitio web.
 
-- [ ] Dificultad jerárquica de los ficheros XML y JSON.
+- [x] Dificultad jerárquica de los ficheros XML y JSON.
 
-- [ ] Uso de al menos una fuente tipográfica externa
+- [x] Uso de al menos una fuente tipográfica externa
 
 - [ ] Requisitos mínimos de SEO
 
-- [ ] Uso de elementos de formulario.
+- [x] Uso de elementos de formulario.
 
-- [ ] Interfaz de los datos XML y JSON.
+- [x] Interfaz de los datos XML y JSON.
