@@ -1,0 +1,502 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJAYK7HpogQg0R_ELkt5D6wyA",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJibcBhOovQg0RxA7V2mQNXSQ",
+         "types" : [ "establishment", "point_of_interest", "stadium" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.4466375,
+               "lng" : -3.6004829
+            },
+            "southwest" : {
+               "lat" : 40.3054742,
+               "lng" : -3.7098133
+            }
+         },
+         "copyrights" : "Datos de mapas ©2019 Google, Inst. Geogr. Nacional",
+         "legs" : [
+            {
+               "arrival_time" : {
+                  "text" : "18:50",
+                  "time_zone" : "Europe/Madrid",
+                  "value" : 1558630234
+               },
+               "departure_time" : {
+                  "text" : "17:45",
+                  "time_zone" : "Europe/Madrid",
+                  "value" : 1558626300
+               },
+               "distance" : {
+                  "text" : "29,8 km",
+                  "value" : 29803
+               },
+               "duration" : {
+                  "text" : "1h 6 min",
+                  "value" : 3934
+               },
+               "end_address" : "Av. de Luis Aragonés, 4, 28022 Madrid, España",
+               "end_location" : {
+                  "lat" : 40.4335913,
+                  "lng" : -3.6007214
+               },
+               "start_address" : "Getafe, Madrid, España",
+               "start_location" : {
+                  "lat" : 40.3054742,
+                  "lng" : -3.7077985
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "19,0 km",
+                        "value" : 19019
+                     },
+                     "duration" : {
+                        "text" : "30 min",
+                        "value" : 1800
+                     },
+                     "end_location" : {
+                        "lat" : 40.446606,
+                        "lng" : -3.6922869
+                     },
+                     "html_instructions" : "Tren en dirección a Chamartin",
+                     "polyline" : {
+                        "points" : "ed_uFvdsUEq@oBPa@DkDXaDTgBNS@i@FuAJC@w@F}AL_BLuFb@{D\\E?_AJoCXmBT_@DiBRo@HeI|@uE^]BgBLcEXuABqA@uAAoAEwAG{AMKAmC_@y@QgAUaCq@qAe@mAg@o@Y]QeAi@]S]U_@UuA{@IG]Wa@Ym@i@cA{@y@y@A?[]c@e@kAyA}@kAiAgBcAgBeAqBi@iAe@kAg@qASk@w@eCSs@K]Uw@y@iDKe@AEYaBAGYsBS_BOqACQMcAESQwAOoAE_@]uCO_BKiAIuAI_B?ACk@Co@E_AGmAMeCIs@]eDCOKm@Ie@s@gDQq@[iA[}@e@oAc@cAs@yAq@kAe@s@]g@]c@a@i@]a@e@c@a@c@US_@]_@Y[Uc@[_@Wi@[uAs@_Bo@A?gA]}@Uy@Q_AMaAKa@C]C_AEG?g@AcA?M?U?w@?iA@}@?U?Y@}@?Q?qA?_A?Y?m@?[?m@?kA@]?c@?oC@A?eA?kB@c@?iA?iB@c@?y@?Q?_@@_C?qA@mA?k@?iBBuCDeADkB?A?mB?]?A?_@?C?gA?c@?[?E?s@@O?g@?Y@m@Ac@?c@?UA_AEMAy@IA?gAQ_@Ia@Kg@M_@M{@]qAo@m@]e@[i@_@e@_@qBkBkAgA[[q@k@WYKIGGCCRNXRZRSSQOIIMKUW][a@]k@i@][IGq@i@AASOQKYOUMECYMSKg@QEA{@[A?i@QYKi@Qa@MKEUIy@WgA]i@Mk@OYGwAYOCgAOi@I[Ec@ESCs@GUCMAc@AYCqAGaAAkAEsA?o@@_@BC?oAJUBg@JUDmAVmA^oA`@YJs@VmA`@mAd@kAd@kAf@KD_Ab@A?gAj@a@Ni@XOJy@b@EDaAh@iAn@i@Za@RiAp@a@Ra@V{@f@YJSJo@TMDu@RG@}@PM@QB_ANG?WDQBG@_ALWDc@DSB_@Ba@B]@o@?Y?]CYCi@G[EUEWGEA]KWISE_@OQI]MUOSKUOCCMICAOMUSUSSQQQSUKI[[y@{@CCg@i@k@k@WUUWSUa@a@i@i@SUc@c@[Y[_@WWWYWWUUQOSUUWSQY[_@_@kDqD{A{AwB{BqBsBmAmA}@y@c@]EEi@a@q@c@KG}@e@q@Yg@SAAa@MICi@OQEQE_@GEC[EA?a@GA?]EMAQAQAKAWAE?c@Ae@?]?U?S@_AF[Ba@Fg@Hk@JYHa@H{@RE@_@JC?]Je@Jm@NWHG@i@Pi@RKDe@RKD{@`@g@Vg@Zo@`@EBc@Xk@b@YTc@^i@d@m@l@c@b@A@c@d@SVGFW\\UXY\\Y^]b@e@j@KNQV_@h@Ud@Wf@Od@Sj@Md@Mb@Kb@ELEXCPERCVKp@CXEZANA\\CZAFA\\Eb@Ev@AZCb@A?Ef@Ij@EZGVMl@K^Sb@KVMZQ`@[f@U\\cAnAaAlAILQTW\\EFGHQTWZQTUZKPINEJEFCBk@bAOPMRW\\MNY^SVQRMPORIJONONo@r@q@r@iCvCkBvBA@{ArByAnBgB`CoA`BkCnDMNMPgB`CKLMPOT]l@Yp@u@nBSf@w@vBmA~CgCtGQf@yC~Hg@nAQf@mDdJSf@Qf@c@jAWh@Sd@q@z@o@d@u@XE@[FwCf@aD^_@B]?LwCkAe@cB_AmC}AwTyLgTsLqCyAaJcF}DwBcJ_FoAi@uBw@gCq@aDa@}BWmKa@aT}@aGQ{@BwAD]Fo@LuB\\{AT_BLuCEeH_@yBIiDSD}A"
+                     },
+                     "start_location" : {
+                        "lat" : 40.3054742,
+                        "lng" : -3.7077985
+                     },
+                     "transit_details" : {
+                        "arrival_stop" : {
+                           "location" : {
+                              "lat" : 40.446606,
+                              "lng" : -3.6922869
+                           },
+                           "name" : "Nuevos Ministerios"
+                        },
+                        "arrival_time" : {
+                           "text" : "18:15",
+                           "time_zone" : "Europe/Madrid",
+                           "value" : 1558628100
+                        },
+                        "departure_stop" : {
+                           "location" : {
+                              "lat" : 40.3054742,
+                              "lng" : -3.7077985
+                           },
+                           "name" : "Getafe Industrial"
+                        },
+                        "departure_time" : {
+                           "text" : "17:45",
+                           "time_zone" : "Europe/Madrid",
+                           "value" : 1558626300
+                        },
+                        "headsign" : "Chamartin",
+                        "line" : {
+                           "agencies" : [
+                              {
+                                 "name" : "Consorcio Regional de Transportes de Madrid",
+                                 "url" : "http://www.crtm.es/"
+                              }
+                           ],
+                           "color" : "#a03187",
+                           "name" : "Aranjuez-Atocha-Chamartín-El Escorial",
+                           "short_name" : "C3",
+                           "text_color" : "#ffffff",
+                           "url" : "http://www.crtm.es/tu-transporte-publico/cercanias-renfe/lineas/5__3___.aspx",
+                           "vehicle" : {
+                              "icon" : "//maps.gstatic.com/mapfiles/transit/iw2/6/rail2.png",
+                              "local_icon" : "//maps.gstatic.com/mapfiles/transit/iw2/6/es-madrid-rail.png",
+                              "name" : "Tren",
+                              "type" : "HEAVY_RAIL"
+                           }
+                        },
+                        "num_stops" : 7,
+                        "trip_short_name" : "Aranjuez-Atocha-Chamartín-El Escorial"
+                     },
+                     "travel_mode" : "TRANSIT"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "10 m",
+                        "value" : 10
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 11
+                     },
+                     "end_location" : {
+                        "lat" : 40.44659,
+                        "lng" : -3.69241
+                     },
+                     "html_instructions" : "Camina hasta Nuevos Ministerios",
+                     "polyline" : {
+                        "points" : "ivzuFxcpUBV"
+                     },
+                     "start_location" : {
+                        "lat" : 40.446606,
+                        "lng" : -3.6922869
+                     },
+                     "steps" : [
+                        {
+                           "distance" : {
+                              "text" : "10 m",
+                              "value" : 10
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 11
+                           },
+                           "end_location" : {
+                              "lat" : 40.44659,
+                              "lng" : -3.69241
+                           },
+                           "polyline" : {
+                              "points" : "ivzuFxcpUBV"
+                           },
+                           "start_location" : {
+                              "lat" : 40.446606,
+                              "lng" : -3.6922869
+                           },
+                           "travel_mode" : "WALKING"
+                        }
+                     ],
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1,1 km",
+                        "value" : 1062
+                     },
+                     "duration" : {
+                        "text" : "2 min",
+                        "value" : 100
+                     },
+                     "end_location" : {
+                        "lat" : 40.4380397,
+                        "lng" : -3.691241899999999
+                     },
+                     "html_instructions" : "Metro en dirección a Puerta del Sur",
+                     "polyline" : {
+                        "points" : "evzuFpdpULoFX@xAFnCLlBJxAFpI`@J?J@N@P@JBH@PDD@HBJBj@RVHJBD@LBD@JBL@J@J@L@J?L@JAD?L?JALAJALAJCREJCJCJEvAa@@?rA_@bA[NENENEFANCNCPCH?DAJ?D?JAT?F??F"
+                     },
+                     "start_location" : {
+                        "lat" : 40.44659,
+                        "lng" : -3.69241
+                     },
+                     "transit_details" : {
+                        "arrival_stop" : {
+                           "location" : {
+                              "lat" : 40.4380397,
+                              "lng" : -3.691241899999999
+                           },
+                           "name" : "Gregorio Marañón"
+                        },
+                        "arrival_time" : {
+                           "text" : "18:21",
+                           "time_zone" : "Europe/Madrid",
+                           "value" : 1558628483
+                        },
+                        "departure_stop" : {
+                           "location" : {
+                              "lat" : 40.44659,
+                              "lng" : -3.69241
+                           },
+                           "name" : "Nuevos Ministerios"
+                        },
+                        "departure_time" : {
+                           "text" : "18:19",
+                           "time_zone" : "Europe/Madrid",
+                           "value" : 1558628383
+                        },
+                        "headsign" : "Puerta del Sur",
+                        "headway" : 240,
+                        "line" : {
+                           "agencies" : [
+                              {
+                                 "name" : "Consorcio Regional de Transportes de Madrid",
+                                 "url" : "http://www.crtm.es/"
+                              }
+                           ],
+                           "color" : "#0168b3",
+                           "name" : "Hospital del Norte-Puerta del Sur",
+                           "short_name" : "10",
+                           "text_color" : "#ffffff",
+                           "url" : "http://www.crtm.es/tu-transporte-publico/metro/lineas/4__10___.aspx",
+                           "vehicle" : {
+                              "icon" : "//maps.gstatic.com/mapfiles/transit/iw2/6/subway2.png",
+                              "local_icon" : "//maps.gstatic.com/mapfiles/transit/iw2/6/es-madrid-metro.png",
+                              "name" : "Metro",
+                              "type" : "SUBWAY"
+                           }
+                        },
+                        "num_stops" : 1,
+                        "trip_short_name" : "Hospital del Norte - Puerta del Sur"
+                     },
+                     "travel_mode" : "TRANSIT"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.4380397,
+                        "lng" : -3.691241899999999
+                     },
+                     "html_instructions" : "Camina hasta Gregorio Marañón",
+                     "polyline" : {
+                        "points" : "w`yuFf}oU"
+                     },
+                     "start_location" : {
+                        "lat" : 40.4380397,
+                        "lng" : -3.691241899999999
+                     },
+                     "steps" : [
+                        {
+                           "distance" : {
+                              "text" : "1 m",
+                              "value" : 0
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 0
+                           },
+                           "end_location" : {
+                              "lat" : 40.4380397,
+                              "lng" : -3.691241899999999
+                           },
+                           "polyline" : {
+                              "points" : "w`yuFf}oU"
+                           },
+                           "start_location" : {
+                              "lat" : 40.4380397,
+                              "lng" : -3.691241899999999
+                           },
+                           "travel_mode" : "WALKING"
+                        }
+                     ],
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "9,5 km",
+                        "value" : 9477
+                     },
+                     "duration" : {
+                        "text" : "20 min",
+                        "value" : 1220
+                     },
+                     "end_location" : {
+                        "lat" : 40.4331851,
+                        "lng" : -3.6012454
+                     },
+                     "html_instructions" : "Metro en dirección a Estadio Metropolitano",
+                     "polyline" : {
+                        "points" : "w`yuFf}oUI??A?C?C?CBoABm@BaAFoABs@?C?C@C?G?C?G?G@I?C?CB}ADuBDuBBuBDuBDuBD{B?A?C?C?C?G?A?C?C@C?G?A?G?C@C?E?C?C?C@C?C?A?C?C?C@C?A?C?C?C?C@A?C?C?E?C@C?C?C?A?C?C?C@C?A?G?G@A?C?C?C?C?A?C@C?C?C?E?C?C@C?C?A?C?C?C?C@I?C?C?C?C?C?Y?K?I?K?C?C?M?C?C?C?gB?K?C?M?]?K@e@?C?C?C?E?C?C@C?C?G?CBeABeBDeC@O?MA_A?I?Q@{@DsBDcB?A?A?C?C?C?C?C?A@C?C?G?C?C?C?C?C?O?G?C?C?K?C?CAC?C?C?CAM?C?GAC?AAK?C?CAA?G?CAC?CCM?CCOAC?CAEAC?CEM?CCECMAA?CACAA?AAA?AAA?AEK?AACACAAAC?AACACAAACAAACAA?CAAACAAACAAAEACAACEACAAAC?AAAACAAACAAACAAAC?AA??AAA?AAA?AAA?AAAAAAA?AACAAAA?AAAAC?AAACGAAACAAACAAACACAACE?AAAAEAAAAAACIAAGKAGAAACAAACEKGSEMAECKCKACAC?CAC?AAGAC?AAC?CAC?CAA?CAC?CEYACAE?CAC?CACCO?CCM?CACAIAC?A?CAGAA?CAC?C?AAC?CAC?AAC?CAC?A?CAC?CAA?CAC?C?AAC?CAA?CAC?C?AAC?CAA?CAC?C?AAC?CAC?AAC?C?AAC?CAC?AAC?C?AAC?CAC?AAC?C?AAC?CAC?AAC?C?AAC?CAC?AAC?EAC?CAC?AAC?C?AAGAC?AAC?EACAG?AAC?CAC?A?CAC?CAA?CAC?CAA?C?CAC?AAC?CAE?CAC?CAAAG?C?AAEAGIg@c@mC_@aC?CAC?AAC?CAE?CAC?CAA?C?CAA?CAC?CAA?C?CAA?CAC?CAA?C?CAC?AAC?CAE?CAC?AAC?CAA?C?CAC?AAC?CAC?A?CAC?AAC?CAC?A?CAGAA?CAC?A?CAC?CAA?CAC?CAA?C?CAC?AAC?CACAE?GAA?CAC?CAEAKAA?C?CAC?A?CAC?CAC?A?CAC?C?AAC?C?CAC?C?CAA?CAG?C?CAE?GAK?CAC?E?C?CAG?C?C?AAC?G?C?C?C?CAC?A?C?C?G?C?C?CAC?A?C?C?G?G?C?C?A?C?G?C?C?C?C?C?E?C?C?C?G?C@G?A?C?C?G?C?A@K?C?C?A?C?C?C@C?I?C@C?C?A?C?C@C?C?A?C@C?C?C?C@A?C@G?C?E@C?C?C@A?C?C@C?C?A@C?C?C@C?A@C?C?C@C?A@C@G?C?A@C?C@C?A@C?C@C?C@A?C@C?C@A?C?CBE?C@C?A@C?C@A@G?C@A?C@C@E@C?A@C@C?A@C?CJ[?A@C@E@C@C?A?A@A@C?C@A@C?C@A@CBM@ABI@C?A@G@ADM?A@C@C?A@CBK@C@E@C@ABM@ABI?C@C@A?C@A@G@A?C@A@C?CBE?C@A?CBE?CBE?A@C?C@A@C?C@A@C?A@C@C?A@CFSp@}B@Gt@iC@CNk@BI@C?A@C@C@E@CH_@@C@C?A@C?C@A?CJa@@C@E?C@C?A@CH_@?A@C?C@C?A?CHc@@A?C?C@C@E?C@CD_@@C?C?C@A?C@C?C?CFc@Dc@?C@C?CB[@C?C?C?C@C?A?C@G?C?C?A@C@S?C?C@G?C?E?C@C?C?C?C?C@C?C?A@S?C?C?E?C?C@C?I?C?C?C?C?C@C?C?A?G?C?C?C?C?A?C?U?C?C@C?C?C?E?C?G?CAI?C?C?C?C?C?I?C?C?C?C?C?C?E?C?CAO?I?O?C?C?CAC?C?A?G?C?C?CAC?C?A?C?C?C?C?CAC?A?CAS?C?AAG?C?C?C?AAC?C?C?EAC?G?CAA?C?G?CAA?C?CAC?C?AAG?CAMAE?C?C?CAA?CAG?C?AAC?C?CAA?C?CAG?AAC?C?CAA?CAG?CAE?CAC?C?AAC?C?CAA?C?CAC?CAE?GAAAK?CAE?CAC?A?CAC?C?CAA?CAG?CAGCM?CAG?CAC?A?CAC?CACCO?CAC?CAC?AAC?CAEACAICMAC?CACAAAG?AACAC?AGSAC?CAAAGAACG?AACAA?CACAAACEKAECG?AACAAACAEACAAUm@?AGM?AACEKACAEAAACAA?CCEAC?AACCE?AACAAACAEACAA?CAAACAEAAACAEACAAAEACCE?ACEACAEAAAGAACE?CCEAAAEACAEAAAC?AACAAACAEACAEAACE?CCEAA?CAAUk@a@eAGSKUM]AEGSGOESCGESCMAGCMCM?GCMAMCO?IAKAOAM?KAM?S?M?U?G?I@K?G?M@M@M@O@QBM@MBO@IBQ@EBKBMBKDMBMFOBIBIBEDOHQ@A@CLUHQNUDGJMNSLMFEJIDGNKNK|EoDdBoAxB_B\\YNKLKJIRURQFEhBsA|@q@DCDC@Ad@]JIJIBAHEHGFCJEJGLIBCDCfAw@r@i@bHeFj@a@t@k@NKHGJInCqBz@m@TQvAeAHEPO`Aq@v@m@hA{@bAu@PMVUTSJMHGNSRWFMLSJSJQFQJUHWHUDM@IHWDSDWFYBUBSBYBY@U@Q@W?U@U?YAYAU?SC[AQCYCQCUEUG[I_@IYMe@IYOe@{@kC[cAo@oBAA?A?AAA?AAA?A?AAA?AACACAEACACAA?CACCE?CEMACAA?CIWAAACIYGQI[?AACGWAC?CGWAGEWAC?C?CEU?C?AACCU?C?GACAU?CACAY?O?CAY?C?C?Y?C?C?C?C?U?C?C@Y@C?C?C?C?CBY@MBYBQ?CDY@C?C@IFYFWDS@C?C@A?C@CBI@E@C?C@E@C@C?A@C?ABG?A@G@A@C?C@E@C@E@C?A@C@E@C?A@C@E@C@C?A@C?C@A@C?C@A?C@C@A?C@C?A@C@C?A@C?C@A@C?C@A?C@C@A?C@C?A@C@C?ABG@G@C@E@C@E?C@A@G@A@G@A@E?CBE?C@C?A@C?A@C@C?A@C?C@A@C?A@C?C@A@C@E?CBE?C@A?C@C?A@C@A?C@C?A@C@C?A@C?A@CFS?C@ADO?CBE?CBI@A?A?ADO@CDS@ADO?C@CBK@C@CBK@CDO?ADM?C@ENk@b@_B?A@C?A@C@C?A@C@E@C?A@C?CBI@A@G@A@E?C@C@E@C@E?CBE?A@C?CBEVcA@C?A?A@A?A@C@E?A@C?A@C@A@G?ABG?A@C@C@E?C@A@C?C@E@C@E@C?A@C@A?C@C?A@C@C?A@C?C@A@C?C@A?C@C@A?C@C@E@C@E?A@C@C?A@C?C@A@CDO?CDOp@gCFYFY@EH_@F_@D]@QBQ@Q@Q@S?Q@_@?a@?]AIAUA]AMCUC]?AE]CICUACAEGW?CAC?CAA?CACGS?CACAEAC?AACACAE?CAAAC?CAA?CACAA?CACAA?CAC?AACAC?AACAC?AAC?AACAC?AAC?CAAAC?AAC?CAAAC?CAA?CAAAC?CAAAC?CAA?CACAA?CAA?CACAEAC?AACAA?CAC?AACAC?AACAC?AAEACAEACCI?AAGAACI?CACAA?CCIAAAG?ACE?CAEACAEACAC?AACAEACAE?CCE?AACAEACAE?CCE?CAAAGAAAG?ACIACAA?CAC?AK]e@eBGS?CAAAEAC?A?AAA?AACAEAC?AACAA?CAC?AACAC?AAC?CCE?AAC?CAAACAE?CCE?CAAAC?CAA?CCE?CCIAA?CAC?ACIACAEAC?AEM?CAA?CACAEACAA?CACCI?AACAEAC?CAACI?CAAAC?CAAAC?CAA?CACAA?CAC?AACAA?CAC?AACAC?AAC?CAAAC?AACAC?AAC?CAAAC?CAA?CAAAC?CAAAGAA?CACAA?CAC?AACAC?AAC?CAAAC?AACAC?AAC?CAAAC?CAA?CACAA?CACAEACAA?CAC?AACAC?AACAC?CK]AA?CACAA?CCIAC?ACG?AACAC?AACAEACAEACAC?AACACAA?CACAA?CAAAGAAACAA?CACAAGSAAAC?AACCEAC?ACGAAAC?CAAACAAAC?CAAACCEKWAAACACAA?CAAMWACAAAAACAEAAWe@ACAAAAQ]AAEGAAACU]EGAACEKOAAAAACAACCACAACCACAACCOQAAAAACEEEGAAAAAAAAACQQAAAACCACCAAAAAAAAAAAAAAAACCAAAAAOOAAAAAAAACAAAAAAACCCAAAAAAAAAAAECKIAAAAAAAACAAAAAAAAACAAACCAACAAAAAAAUOAACAAAAAAAA?CACCAACAAAAACAAAAACACACAAAAAAAYQAAAACAA?AAAACAAAAAAACAAAA?AAECAACAAACCC?AAAAAAECAAECA?AAAAAAGCCCAAA?AACAAAAAAAA?CAAAAAAAAACAA?AAAACAAAAAA?AACAAAAAAACAA?AAAAAACAAAAAA?AACAAAAAAACACA?AmJaGGEqHyEe@{B@_CVqBbA{AzCaB|@{@h@sA~AaDhBoCtBxC"
+                     },
+                     "start_location" : {
+                        "lat" : 40.4380397,
+                        "lng" : -3.691241899999999
+                     },
+                     "transit_details" : {
+                        "arrival_stop" : {
+                           "location" : {
+                              "lat" : 40.4331851,
+                              "lng" : -3.6012454
+                           },
+                           "name" : "Estadio Metropolitano"
+                        },
+                        "arrival_time" : {
+                           "text" : "18:47",
+                           "time_zone" : "Europe/Madrid",
+                           "value" : 1558630033
+                        },
+                        "departure_stop" : {
+                           "location" : {
+                              "lat" : 40.4380397,
+                              "lng" : -3.691241899999999
+                           },
+                           "name" : "Gregorio Marañón"
+                        },
+                        "departure_time" : {
+                           "text" : "18:26",
+                           "time_zone" : "Europe/Madrid",
+                           "value" : 1558628813
+                        },
+                        "headsign" : "Estadio Metropolitano",
+                        "headway" : 330,
+                        "line" : {
+                           "agencies" : [
+                              {
+                                 "name" : "Consorcio Regional de Transportes de Madrid",
+                                 "url" : "http://www.crtm.es/"
+                              }
+                           ],
+                           "color" : "#f29426",
+                           "name" : "Hospital del Henares-Pitis",
+                           "short_name" : "7",
+                           "text_color" : "#ffffff",
+                           "url" : "http://www.crtm.es/tu-transporte-publico/metro/lineas/4__7___.aspx",
+                           "vehicle" : {
+                              "icon" : "//maps.gstatic.com/mapfiles/transit/iw2/6/subway2.png",
+                              "local_icon" : "//maps.gstatic.com/mapfiles/transit/iw2/6/es-madrid-metro.png",
+                              "name" : "Metro",
+                              "type" : "SUBWAY"
+                           }
+                        },
+                        "num_stops" : 11,
+                        "trip_short_name" : "Pitis - Hospital de Henares"
+                     },
+                     "travel_mode" : "TRANSIT"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0,2 km",
+                        "value" : 235
+                     },
+                     "duration" : {
+                        "text" : "3 min",
+                        "value" : 201
+                     },
+                     "end_location" : {
+                        "lat" : 40.4335913,
+                        "lng" : -3.6007214
+                     },
+                     "html_instructions" : "Camina hasta Av. de Luis Aragonés, 4, 28022 Madrid, España",
+                     "polyline" : {
+                        "points" : "mbxuFxj~TaCm@PNAH?@A?o@Fc@FEiAXETClAQ?A"
+                     },
+                     "start_location" : {
+                        "lat" : 40.4331851,
+                        "lng" : -3.6012454
+                     },
+                     "steps" : [
+                        {
+                           "distance" : {
+                              "text" : "75 m",
+                              "value" : 75
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 76
+                           },
+                           "end_location" : {
+                              "lat" : 40.43384,
+                              "lng" : -3.60102
+                           },
+                           "html_instructions" : "Toma la salida \u003cspan class=\"location\"\u003eEstadio Metropolitano\u003c/span\u003e",
+                           "polyline" : {
+                              "points" : "mbxuFxj~TaCm@"
+                           },
+                           "start_location" : {
+                              "lat" : 40.4331851,
+                              "lng" : -3.6012454
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "53 m",
+                              "value" : 53
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 35
+                           },
+                           "end_location" : {
+                              "lat" : 40.43418570000001,
+                              "lng" : -3.6012376
+                           },
+                           "html_instructions" : "Dirígete hacia el \u003cb\u003enorte\u003c/b\u003e",
+                           "polyline" : {
+                              "points" : "}exuFzi~TAH?@A?o@Fc@F"
+                           },
+                           "start_location" : {
+                              "lat" : 40.4337472,
+                              "lng" : -3.6011046
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "31 m",
+                              "value" : 31
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 30
+                           },
+                           "end_location" : {
+                              "lat" : 40.4342202,
+                              "lng" : -3.6008692
+                           },
+                           "html_instructions" : "Gira a la \u003cb\u003ederecha\u003c/b\u003e",
+                           "maneuver" : "turn-right",
+                           "polyline" : {
+                              "points" : "uhxuFvj~TEiA"
+                           },
+                           "start_location" : {
+                              "lat" : 40.43418570000001,
+                              "lng" : -3.6012376
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "76 m",
+                              "value" : 76
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 60
+                           },
+                           "end_location" : {
+                              "lat" : 40.4335913,
+                              "lng" : -3.6007214
+                           },
+                           "html_instructions" : "Gira a la \u003cb\u003ederecha\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eEl destino está a la derecha.\u003c/div\u003e",
+                           "maneuver" : "turn-right",
+                           "polyline" : {
+                              "points" : "{hxuFlh~TXETClAQ?A"
+                           },
+                           "start_location" : {
+                              "lat" : 40.4342202,
+                              "lng" : -3.6008692
+                           },
+                           "travel_mode" : "WALKING"
+                        }
+                     ],
+                     "travel_mode" : "WALKING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ed_uFvdsUEq@oBPmE^gIn@gWrB}I`AyC\\eI|@uE^eCPcEXuABgD?gDMgBOgEq@iEgA_DmAmAk@cB}@}CoBqDwC{B}BiCeDmCoEoB{DmA}CkBcG}AmG[iBm@sEg@{DeA}I[iDSuDM}CUsEg@yEmAkGm@{BaAmCwA}CwA_C{BwC}ByB_CcB_CoAaBo@eCs@yB_@cBO}AIaCAuIBm]F{MBqLNoC?uF@sC?gCI{@IgB[iAY{Ak@_CmAoA{@wCkCgBcB}AwACCRNt@f@}@y@aC{B{AoAuAy@{Ao@mBo@qBq@aEmAmDu@qDe@kBQqEO_DEoADsAJ}@NcB\\mA^kFfBqFxBkD~AqIxEiEdCkBr@iCh@qBXqBXyBPmA@w@CuBWsA_@cBm@cAo@w@m@uDsDaMiMwNeO_EaEaBwAmBsAoB_Ai@UgBg@sAWcAM}@GgBCgCHeBTkFlAkBd@gBl@uCrA}A`AmCrB}BxBaDzDaBvBmAvB_AzC[|AYvBMdB]hFe@lCy@vBm@hAyAlBuBnCw@bAg@p@U`@{@zAcArAmA|Ay@~@wIvJ_HfJiKjNw@~AiAvC_HtQaK|WaBdESd@q@z@o@d@u@Xa@HwCf@aD^}@BLwCkAe@qF}C_j@mZu_@uSeEaBgCq@aDa@}BWmKa@aT}@aGQsCHmATqEr@_BLuCE_Li@iDSD}ABVLoFrBHhTbAx@Dl@L~Bp@p@Hr@@l@Cx@MdHqBv@Qp@Ir@AF??FIAB{ARsFBq@^sTH_EJ}BDyD@{FPuIAiBLsG?Y@c@EcBSaB]iA{@gBq@qAk@mAe@kBk@mDYmB{@kFeC_P_@_CUoCEoCJoCV}Bd@wBvBqHrC{Jf@wB`@wB`@qDNeDBcDEeDUaDw@}GYyA]oA{A}DaAeCq@eB{AkE[cBMkB@kBRsBb@iBl@wAj@}@p@q@pOeL`A}@tDoC|AgAl@[dCiBvRqNpK_IjAeAt@aAl@kAd@qAVmAR}AHyA?_BGwAQwAi@{BqBoGs@yBEMe@wAg@iBSkAMeAGiBFsCRiBZwAXiAj@uBn@eCjDwMrB_ITy@bAyDZyARaBDiA?iBIwAMgAQcAQo@Sw@Ss@g@kB}CiLsDcNy@uC{@eCs@}A}AmCcAsA{@aAcB{AiBoAaEiCi@[gTcNe@{B@_CVqBbA{AzCaB|@{@h@sA~AaDhBoCtBxCaCm@PNAJq@Fc@FEiAn@IlAS"
+         },
+         "summary" : "",
+         "warnings" : [
+            "Las rutas a pie están en versión beta. Ten cuidado. –  En esta ruta puede que no haya aceras o pasos para peatones."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -15,20 +15,15 @@
     <link rel="stylesheet" href="css/main.css">
     <script src="js/main.js"></script>
 </head>
-<body>
-    <section id="tiempo">
+<body >
+    <section id="tiempo" class="order-0">
         <div id="ciudad"></div>
         <div id="temperatura"></div>
         <div id="icono"></div>
     </section>
-    <main class="d-flex">
+    <main class="d-flex" id="main">
         <div class="title"><h1>Como llego a ...</h1></div>
-        <div class="formbusqueda">
-            <form action="" method="get" class="d-flex" onsubmit="return buscaRuta()">
-                <input type="search" class="form-control form-control-lg" name="buscar" id="busca_form">
-                <input type="submit" class="btn btn-primary btn-lg buscaBtn" value="Buscar">
-            </form>
-        </div>  
     </main>
+    <footer id="footer"></footer>
 </body>
 </html>
