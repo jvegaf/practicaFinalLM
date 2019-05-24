@@ -21,7 +21,7 @@ Debes realizar una página web semántica HTML5 de temática libre donde se mues
 
 - [x] Uso de al menos una fuente tipográfica externa
 
-- [ ] Requisitos mínimos de SEO
+- [x] Requisitos mínimos de SEO.
 
 - [x] Uso de elementos de formulario.
 
